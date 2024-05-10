@@ -1,0 +1,17 @@
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Data.deps.json
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Data.runtimeconfig.json
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Data.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Data.pdb
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.csproj.AssemblyReference.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.AssemblyInfoInputs.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.AssemblyInfo.cs
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.csproj.CoreCompileInputs.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.D.0BF47FE9.Up2Date
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\refint\Pronia.Data.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.pdb
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\Pronia.Data.genruntimeconfig.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Data\obj\Debug\net6.0\ref\Pronia.Data.dll

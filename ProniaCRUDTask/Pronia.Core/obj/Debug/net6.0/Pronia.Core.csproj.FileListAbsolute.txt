@@ -1,0 +1,12 @@
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\bin\Debug\net6.0\Pronia.Core.deps.json
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.AssemblyReference.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfoInputs.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfo.cs
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\refint\Pronia.Core.dll
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\Pronia.Core.pdb
+C:\Users\samir\OneDrive\Desktop\cavid\Pronia.Core\obj\Debug\net6.0\ref\Pronia.Core.dll
